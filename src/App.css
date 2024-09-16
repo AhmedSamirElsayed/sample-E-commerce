@@ -1,0 +1,24 @@
+/* Navbar */
+.navbar-nav a {
+  font-size: 18px;
+}
+
+.navbar-nav a:hover {
+  text-decoration: underline red 2px;
+  scale: 1.2;
+}
+
+.pro-card:hover {
+  scale: 1.05;
+}
+
+.activeCategory-btn {
+  border: 2px solid rgb(226, 17, 17) !important;
+  background-color: #f0f0f0 !important;
+  font-weight: bold !important;
+}
+
+.plus,
+.minus {
+  cursor: pointer;
+}
