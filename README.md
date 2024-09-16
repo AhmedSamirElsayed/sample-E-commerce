@@ -1,6 +1,6 @@
-# E-Commerce App
+# E-Commerce Website
 
-Welcome to the **E-Commerce App**! This is a modern e-commerce application built with React, Redux, and Vite. It leverages Bootstrap for styling and includes essential functionalities like product listing, filtering, and cart management.
+Welcome to the **E-Commerce Website**! This is a modern e-commerce application built with React, Redux, and Vite. It leverages Bootstrap for styling and includes essential functionalities like product listing, filtering, and cart management.
 
 ## Project Setup
 
